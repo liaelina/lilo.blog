@@ -6,8 +6,8 @@ description = ""
 +++
 ![](/img/default-author.jpg)
 
-## My Name
+## Lia Elina Hess
 
-mail@example.org
+lia.hess@icloud.com
 
 Here should be some info about me...
