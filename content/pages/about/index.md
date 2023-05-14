@@ -1,13 +1,11 @@
 +++
 title = "About me"
 draft = false
-image = ""
+image = "823887a5-6937-42c1-8c86-310af07ec05a.jpeg"
 description = ""
 +++
 ![]()
 
-## Lia Elina Hess
+## lia elina hess 
 
 lia.hess@icloud.com
-
-Here should be some info about me...
