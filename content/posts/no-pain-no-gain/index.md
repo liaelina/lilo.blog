@@ -1,7 +1,7 @@
 +++
 title = "NO PAIN, NO GAIN!"
-date = "2023-05-14"
-draft = true
+date = "2023-05-15"
+draft = false
 pinned = false
 tags = ["Deutsch", "Reportage", "Musik"]
 image = "img_0208.jpeg"
