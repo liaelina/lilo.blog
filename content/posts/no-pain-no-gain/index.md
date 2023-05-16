@@ -23,7 +23,7 @@ Jede/r, der sich für Musik interessiert und mehr Zeit dafür investieren möcht
 
 Nicht nur in der Musik braucht es viel Durchhaltevermögen - auch im Leistungssport und allen anderen Bereichen, in welchen ein grosser Erfolg erzielt werden soll, wird Beharrlichkeit und Kontinuität gebraucht. Dazu passt auch eine Aussage über Kobe Bryant, ein kürzlich verunfallte Basketballspieler der National Basketball League, kurz NBL, von seinem Trainer, Phil Jackson: „Er erreichte sein Ziel durch Einsatz und Beharrlichkeit“.
 
-> «Es kostet Zeit, Nerven und Geld, doch die Freude an der Musik und der Spass am Instrument motiviert sie und zeigt ihnen, was das Schöne an ihrem Hobby ist.» — M. Grochowina
+> «Es kostet Zeit, Nerven und Geld, doch die Freude an der Musik und der Spass am Instrument motiviert sie und zeigt ihnen, was das Schöne an ihrem Hobby ist.» 
 
 ![In welches Ensemble möchte ich kommen? Die Übersicht im Konsi kann bei der Entscheidung behilflich sein. Foto: Helena Trautmann](img_0210.jpeg)
 
@@ -43,4 +43,4 @@ Es braucht vieles, um professionelle/r Musiker/in zu werden. Um mehr dazu zu erf
 
 Wenn man Musik als Leistungshobby betreibt, bedeutet das nicht, dass es ein Verlust ist, wenn man dann doch nicht professionelle/r Musiker/in wird. Ganz im Gegenteil: Es bedeutet, einen grossen Rucksack voller kognitiver Fähigkeiten auf dem Rücken zu haben, der einem in jeder Lebenssituation behilflich sein kann. Zum Beispiel lerne man, mit sich selbst geduldig zu sein und mit Stress umgehen zu können, aber auch das Selbstvertrauen und Durchhaltevermögen werden gestärkt, sowie die Kreativität, das abstrakte Denken und die Feinmotorik, erklärt uns M. Grochowina. „Die Kompetenzen, die man erlernt hat, kommen auch wieder zurück“. Durch das Leistungshobby erlernt man auch viele neue Sachen dazu, sei es musikalisch, wie auch sozial. So erzählte es auch Kobe Bryant: „Und sobald \[…] mir \[mein Ziel] gelang, hatte ich ein neues Werkzeug im Koffer. Viel Arbeit und ein paar verpasste Würfe nahm ich dafür gern in Kauf.“ Das Leistungshobby zum Beruf zu machen ist ein riskanter Weg. Viele verbinden ihn mit Verlusten und Einbussen, dies entspricht jedoch nur der Wahrheit, wenn man ihn gezwungenermassen gewählt hat. Wenn das Hobby die Leidenschaft ist und man mit vollem Herzen dafür brennt, sieht man keine Verluste, sondern nur kleine und grosse Hürden, welche jeder bewältigen kann. Es gibt schwierigere Zeiten, in denen jeder kämpfen muss, jedoch folgen auch immer wieder sehr schöne Phasen, die mit der richtigen Einstellung immer überwiegen. So ist die Karriere von vielen verschiedenen Momenten geprägt und bleibt immer spannend.
 
-> «Es bedeutet, einen grossen Rucksack voller kognitiver Fähigkeiten auf dem Rücken zu haben, der einem in jeder Lebenssituation behilflich sein kann.» — M. Grochowina
+> «Es bedeutet, einen grossen Rucksack voller kognitiver Fähigkeiten auf dem Rücken zu haben, der einem in jeder Lebenssituation behilflich sein kann.»
