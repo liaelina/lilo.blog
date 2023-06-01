@@ -7,6 +7,14 @@ tags = ["Deutsch", "Reportage", "Musik"]
 image = "img_0208.jpeg"
 description = "Immer mehr Schülerinnen und Schüler des Konservatoriums Bern nehmen an einem Förderprogramm teil, investieren mehr Zeit in ihr Hobby, setzen sich vermehrt mit der Musik auseinander. Wie entwickelt sich ihr Weg? Was müssen die Jugendliche alles leisten, um an ihre Ziele zu gelangen?"
 +++
+{{<lead>}}
+
+Immer mehr Schülerinnen und Schüler des Konservatoriums Bern nehmen an einem Förderprogramm teil, investieren mehr Zeit in ihr Hobby, setzen sich vermehrt mit der Musik auseinander. Wie entwickelt sich ihr Weg? Was müssen die Jugendliche alles leisten, um an ihre Ziele zu gelangen?
+
+{{</lead>}}
+
+*Autorinnen: Lia Hess, Clara Lauber und Helena Trautmann (M25a)*
+
 ![Bereits um acht Uhr morgens hat das Konsi geöffnet, ideal, um schon vor der Schule auf die Pauke zu hauen. Foto: Helena Trautmann](img_0209.jpeg)
 
 Es ist ein regnerischer Montagmorgen, kurz nach acht. Normalerweise sitzt der 16-jährige Gymnasiast Aaron Wulf zu dieser Uhrzeit im Konservatorium Bern und übt Percussion. Percussion ist ein Oberbegriff für den Bereich der Schlag- und Effektivinstrumente; jedes Perkussionsinstrument hat dabei eine individuelle Herkunft bzw. eine kulturelle Bedeutung. Dieses Mal jedoch ist er für das Interview mit uns in die Mediothek des Gymnasium Kirchenfelds gekommen. Die rechteckige Brille auf der Nase, die blonden Locken zu einem Dutt zusammengebunden und die Kopfhörer um den Nacken gelegt, sehen wir ihn an einem der Tische. Auf den ersten Blick ist nicht erkennbar, was sein Hobby ist, und noch weniger, was es für ihn bedeutet - was uns jedoch schon sehr bald klar wird. Seit zehn Jahren spiele er Percussion, ausserdem habe er sechs Jahre lang Klavier gespielt, wegen der Schule dann jedoch aufgehört, erzählt er uns. Nebenbei sei er in einem Fussballverein.
@@ -31,7 +39,7 @@ Nicht nur in der Musik braucht es viel Durchhaltevermögen - auch im Leistungssp
 
 Viele Jugendliche, welche sich intensiv mit Musik auseinandersetzen, fangen bereits im Kindesalter damit an. Beim Erlernen eines Instrumentes bilden sich im Gehirn Vernetzungen, was bei Kindern deutlich schneller und einfacher zustande kommt als bei Erwachsenen. Ab einem gewissen Alter stellen sich dann die Fragen: Wie viel möchte ich noch für die Musik investieren? Was sind meine Prioritäten? Wo sind meine Grenzen? Vor allem Jugendliche versuchen oft, ihren persönlichen Interessen nachzugehen und einen Mittelweg zu finden, auf dem sie alles vereinigen können, was ihnen wichtig ist. Dafür müssen viele Entscheidungen getroffen werden, welche sehr gut überlegt sein müssen, denn diese Entscheidungen können die gesamte Zukunft der Jugendlichen entsprechend bestimmen. Auch muss den Jugendlichen klar sein, worauf sie hinarbeiten, was ihre Ziele sind. Diese sind sehr individuell und auch von unterschiedlicher Bedeutung, sowohl für den/die Jugendliche/n, als auch für andere Betroffene, wie zum Beispiel den/die Lehrer/in; entscheidend ist aber, dass es die kleinen und grossen Erfolge prägt. Ob es nun darum geht, ins Ensemble zu kommen oder das momentane Stück bei der nächsten Musizierstunde vorspielen zu können, bei all dem geht es darum, weiterzukommen, sich zu verbessern und seine Leidenschaft auszuüben. Als Schüler mit dem Schwerpunktfach Biologie und Chemie tendiert Aaron eher dazu, Naturwissenschaften zu studieren; er möchte die Musik jedoch keinesfalls aufgeben. Er bestätigt: „Ich mag die Theorie nicht so wahnsinnig, sondern spiele einfach sehr gerne.“ Ihm ist wichtig, dass er neben der Musik noch Zeit für die Schule und andere Hobbys hat, meint jedoch, mit einer guten Organisation sei das kein Problem. Auch andere Jugendliche finden, dass sie trotz der vielen Übungszeit noch genügend Freizeit haben, die sie mit ihren Freunden verbringen können. Durch den vielen Kontakt mit anderen Jugendlichen, welche die gleiche Leidenschaft teilen, wird ihnen zudem ein weiterer Weg zur Verfügung gestellt, wie sie gute Freunde finden können.
 
-> «Was werde ich letztendlich machen? Kann ich meine Ziele erreichen? Was wird aus mir? All das sind Fragen, welche sich die Jugendlichen in Bezug auf ihre Zukunft stellen. «
+> «Was werde ich letztendlich machen? Kann ich meine Ziele erreichen? Was wird aus mir? All das sind Fragen, welche sich die Jugendlichen in Bezug auf ihre Zukunft stellen. « - M. Grochowina 
 
 ![Kann ich meine Ziele erreichen? Ein Konzert kann zwar eine Hürde darstellen, viele nehmen es jedoch mit der Zeit als eine Gelegenheit war, anderen mit ihrer Musik eine Freude zu machen. Foto: Helena Trautmann](img_0208.jpeg)
 
