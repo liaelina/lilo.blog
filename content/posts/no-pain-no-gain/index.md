@@ -3,7 +3,7 @@ title = "NO PAIN, NO GAIN!"
 date = "2023-05-15"
 draft = false
 pinned = false
-tags = ["Deutsch", "Reportage", "Musik"]
+tags = ["Deutsch", "Reportage"]
 image = "img_0208.jpeg"
 description = "Immer mehr Schülerinnen und Schüler des Konservatoriums Bern nehmen an einem Förderprogramm teil, investieren mehr Zeit in ihr Hobby, setzen sich vermehrt mit der Musik auseinander. Wie entwickelt sich ihr Weg? Was müssen die Jugendliche alles leisten, um an ihre Ziele zu gelangen?"
 +++
